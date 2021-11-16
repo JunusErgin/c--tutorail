@@ -1,0 +1,13 @@
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.exe
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.deps.json
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.runtimeconfig.json
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.runtimeconfig.dev.json
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.dll
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\bin\Debug\netcoreapp3.1\HalloWelt.pdb
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.csproj.AssemblyReference.cache
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.AssemblyInfoInputs.cache
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.AssemblyInfo.cs
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.csproj.CoreCompileInputs.cache
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.dll
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.pdb
+C:\Users\junus\source\repos\HalloWelt\HalloWelt\obj\Debug\netcoreapp3.1\HalloWelt.genruntimeconfig.cache
